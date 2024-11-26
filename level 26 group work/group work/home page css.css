@@ -1,0 +1,12 @@
+h1 {
+    font-size: 35px;
+    color: red;
+    margin-left: 720px;
+}
+
+li{
+    color: red;
+    font-size:25px;
+    text-shadow: 2px 2px 5px rgb(255, 37, 4);
+    margin-bottom: 50;
+}
