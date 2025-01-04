@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(16, 32, 47);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .card {
+    width: 300px;
+    background-color: rgb(11, 43, 74);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .card img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    color: #333;
+    margin-top: 10px;
+  }
+  
+  p {
+    color: #777;
+    margin: 5px 0;
+  }
+  
+  .price {
+    font-weight: bold;
+    color: #6f00ff;
+  }
+  
+  .time-left {
+    font-size: 14px;
+  }
+  

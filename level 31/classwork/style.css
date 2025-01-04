@@ -1,0 +1,45 @@
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+ div {
+    width: 600px;
+    height: 600px;
+    border: 3px solid black;
+    background-image: url('../classwork/OIP.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    background-position: center center;
+}
+
+h1 {
+    font-size: 3em;
+    color: red;
+} */
+
+* {
+    margin: 50px;
+}
+
+
+li {
+    /* list-style-type: georgian;
+    list-style-position: inside;
+    list-style-image: url('../classwork/OIP.jpg'); */
+
+    list-style-type: georgian inside url('../classwork/OIP.jpg');
+
+    color: red;
+    font-size: 2.4em;
+    font-family: cursive;
+    letter-spacing: 10px;
+}
+
+
+.goa {
+    list-style-image: url('../classwork/OIP.jpg');
+}

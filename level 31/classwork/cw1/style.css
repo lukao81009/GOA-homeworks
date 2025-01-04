@@ -1,0 +1,6 @@
+.box {
+    background-image: url('avatar.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
